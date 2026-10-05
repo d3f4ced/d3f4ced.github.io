@@ -1,0 +1,1 @@
+window.DEFACED_PROJECTS = [];
